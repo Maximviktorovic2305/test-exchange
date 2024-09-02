@@ -20,7 +20,7 @@
 
 <style scoped>
 	.wrapper {
-		padding: 20px 100px;
+		padding: 0px 100px;
 		display: flex;
 		align-items: center;
 		justify-content: space-between;
@@ -29,7 +29,7 @@
 	}
 
 	.img {
-		height: 35px;
+		height: 50px;
 	}
 
 	.link-block {

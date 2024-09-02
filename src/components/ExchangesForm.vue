@@ -38,7 +38,7 @@
 
 <template>
 	<div class="container">
-		<h2 class="sub-title">Выберите ввалюту для обмена</h2>
+		<h2 class="sub-title">Выберите валюту для обмена</h2>
 		<form class="exchange-form">
 			<div class="active-currency">{{ mainCurrency }}</div>
 			<div class="main-curr-wrapper">
@@ -86,6 +86,7 @@
 		color: #656565;
 		font-size: 16px;
 		margin: 20px 0;
+		margin-top: 50px;
 	}
 
 	.exchange-form {
